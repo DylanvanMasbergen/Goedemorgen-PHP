@@ -1,0 +1,27 @@
+.nacht {
+	background:url(night.png);
+}
+.morgen {
+	background:url(morning.png);
+}
+.middag {
+	background:url(afternoon.png);
+}
+.avond {
+	background:url(evening.png);
+}
+
+
+p {
+	font-size: 48px;
+	font-family: tahoma;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	-webkit-text-stroke: 1px black;
+}
+
+.Tijd {
+	margin-top: 20%;
+
+}
